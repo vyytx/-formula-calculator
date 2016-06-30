@@ -1,1 +1,10 @@
+body {
+  background-color:black;
+  color:white;
+}
 
+.cen-ter {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}

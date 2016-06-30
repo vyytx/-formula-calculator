@@ -1,1 +1,1 @@
-# -formula-calculator
+# formula-calculator
